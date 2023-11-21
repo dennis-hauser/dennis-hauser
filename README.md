@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dennis-hauser
 - 👀 I’m interested in Machine Learning and Data Analytics
-- 🌱 I’m currently learning about Transformers for Natural Language Processing
+- 🌱 Working as a Data Analyst
 
 <!---
 dennis-hauser/dennis-hauser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
